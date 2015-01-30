@@ -8,15 +8,15 @@
   <compiler>
     <define append="true">
       <name>CONFIG::debug</name>
-      <value>true</value>
-    </define>
-    <define append="true">
-      <name>CONFIG::release</name>
       <value>false</value>
     </define>
     <define append="true">
+      <name>CONFIG::release</name>
+      <value>true</value>
+    </define>
+    <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'21/08/2014'</value>
+      <value>'29/01/2015'</value>
     </define>
     <define append="true">
       <name>CONFIG::air</name>
@@ -31,14 +31,15 @@
       <value>false</value>
     </define>
     <accessible>true</accessible>
-    <verbose-stacktraces>true</verbose-stacktraces>
+    <omit-trace-statements>true</omit-trace-statements>
+    <verbose-stacktraces>false</verbose-stacktraces>
     <source-path append="true">
-      <path-element>C:\Users\JeanPaul\Dropbox\Proyectos Personales\Personales\Simulación Puente\Desarrollo\src</path-element>
+      <path-element>C:\Users\JeanPaul\Dropbox\Proyectos Personales\Personales\Simulación Puente\BridgeSimulation\src</path-element>
       <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
   </compiler>
   <file-specs>
-    <path-element>C:\Users\JeanPaul\Dropbox\Proyectos Personales\Personales\Simulación Puente\Desarrollo\src\Simulacion_puente_03.as</path-element>
+    <path-element>C:\Users\JeanPaul\Dropbox\Proyectos Personales\Personales\Simulación Puente\BridgeSimulation\src\Simulacion_puente_03.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>
