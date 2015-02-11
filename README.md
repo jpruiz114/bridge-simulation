@@ -1,4 +1,4 @@
-# BridgeSimulation
+# Bridge Simulation
 
 This ActionScript 3 project was created with the FlashDevelop IDE.
 
