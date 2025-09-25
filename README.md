@@ -8,6 +8,16 @@ Interactive bridge physics simulation in ActionScript 3 using a spring-mass mode
 
 This ActionScript 3 project demonstrates fundamental concepts in physics simulation, numerical methods, and computational modeling through an interactive bridge visualization. The simulation models a bridge structure as a series of interconnected plates linked by springs, following Hooke's Law principles.
 
+## TL;DR
+
+Here is a video (AI generated via Google NotebookLM with the content of this page) explaining the mathematical foundation of this simulation:
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/156HoI_7sFR932GurCJqSBlUlZ3Ps3c6F/preview" target="_blank">
+    <img src="https://raw.githubusercontent.com/jpruiz114/bridge-simulation/refs/heads/master/How_Math_Builds_Virtual_Bridges.jpg" alt="Watch video">
+  </a>
+</p>
+
 ## Physics Implementation
 
 ### Core Concepts
