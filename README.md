@@ -56,7 +56,7 @@ Where:
 ```
 bridge-simulation/
 ├── src/
-│   ├── Simulacion_puente_03.as          # Main simulation class
+│   ├── Simulacion_puente_03.as           # Main simulation class
 │   ├── as3isolib/                        # 3D isometric graphics library
 │   ├── com/bit101/components/            # MinimalComps UI library
 │   ├── de/polygonal/ds/                  # Data structures library
