@@ -1,6 +1,6 @@
 # Bridge Simulation - ActionScript 3 (Original Version)
 
-An interactive bridge physics simulation built in ActionScript 3 using the spring-mass model. This is the **original version** that inspired the modern HTML5 implementation available at [jeanpaulruizvallejo.com/physics-simulations](https://jeanpaulruizvallejo.com/physics-simulations/).
+Interactive bridge physics simulation in ActionScript 3 using a spring-mass model. Original version that inspired the modern HTML5 implementation at [jeanpaulruizvallejo.com/physics-simulations](https://jeanpaulruizvallejo.com/physics-simulations/).
 
 **Built with FlashDevelop IDE**
 
